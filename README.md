@@ -67,5 +67,4 @@ pip install numpy pandas scipy plotly ipywidgets jupyter
 jupyter notebook lab_2.ipynb
 ```
 
-Рядом нужен xlsx с листами `Sheet1` (выборка) и `Sheet2` (шум). При прогоне ноутбука графики
-пересобираются в `graphs/`.
+При прогоне ноутбука графики пересобираются в `graphs/`.
