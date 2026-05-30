@@ -56,7 +56,8 @@ Python, NumPy, pandas, SciPy (`scipy.stats`), Plotly и ipywidgets для инт
 ```
 lab_2.ipynb   весь анализ с пояснениями
 index.html    страница с интерактивными графиками (GitHub Pages)
-graphs/        экспортированные Plotly-графики (.html)
+graphs/       экспортированные Plotly-графики (.html)
+data.xlsx     выборка
 ```
 
 ## Как запустить
